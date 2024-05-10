@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(80, 75, 75);
+}
+
+.one{
+    background-color: white;
+    width: 380px;
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 10px;
+    padding: 10px;
+}
+.fourbox{
+    display: flex;
+}
+img{
+    width: 100%;
+}
+.ac{
+    margin: 10px;
+}
+
+a{
+    text-decoration: none;
+    margin-left: 10px;
+}
+h2{
+    margin-left: 10px;
+}
+
+.max{
+    display: flex;
+    margin: 10px;
+}
+
+.logo{
+    width: 100px;
+}
+
+nav{
+    display: flex;
+    color: white;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.n2d{
+    display: flex;
+    align-items: center;
+}
+
+.font{
+    margin-right: 10px;
+}
+
+.boxe{
+    width: 50px;
+    height: 50px;
+}
+
+input{
+    height: 50px;
+    width: 800px;
+}
+
+.sunidhii{
+    display: flex;
+}
+
+.bboo:hover{
+    border: 2px solid white;
+   
+}
